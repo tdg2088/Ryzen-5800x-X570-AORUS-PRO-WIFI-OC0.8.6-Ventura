@@ -13,13 +13,13 @@
 - Wifi/Bluetooth: 主板自带
 ## 功能
 - 4K解码 正常
-- 蓝牙 正常
-- WIFI 正常
+- 蓝牙 基本正常
+- WIFI 正常但启动慢
 - 有线网卡 使用USB口的Realtek网卡正常
 - imessage/apple store/hand off 正常
 - USB 正常
 - 睡眠唤醒 正常
-- HiDPI/165HZ：使用一键脚本无效，最后用了Hackintool定制解决
+- HiDPI：正常
 - 音量/显示器亮度调节：使用第三方软件MonitorControl
 ## 缺陷
 - 板载网卡无法驱动，AQC107万兆网卡无法驱动
