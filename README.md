@@ -15,7 +15,7 @@
 - 4K解码 正常
 - 蓝牙 基本正常
 - WIFI 正常但启动慢
-- 有线网卡 使用USB口的Realtek网卡正常
+- 有线网卡 使用USB口的Realtek 8153网卡正常
 - imessage/apple store/hand off 正常
 - USB 正常
 - 睡眠唤醒 正常
@@ -24,7 +24,7 @@
 ## 缺陷
 - 板载网卡无法驱动，AQC107万兆网卡无法驱动
 ## 注意事项:
-- BIOS: "Above 4G XXX" 关闭 (这里重点，和其他主板不一样，我这里需要关闭，自己在启动参数加0x200才可以)
+- BIOS: "Above 4G Decoding" 关闭 (这里重点，和其他主板不一样，我这里需要关闭，自己在启动参数加0x200才可以)
 - BIOS: CMS 关闭
 - BIOS: fast boot 关闭
 - BIOS: Secure boot 关闭
