@@ -1,0 +1,1 @@
+# Ryzen-5800x-X570-AORUS-PRO-WIFI-OC0.8.6-Ventura
